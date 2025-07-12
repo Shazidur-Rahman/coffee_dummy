@@ -1,4 +1,4 @@
-# KapeTann Coffee Shop Website
+#Coffee Shop Website
 
 > Welcome to a coffee lover's paradise! 
 >
