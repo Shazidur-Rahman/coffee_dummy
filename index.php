@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-        <title>KapeTann Brewed Coffee Shop</title>
+        <title>Coffee Shop Brewed Coffee</title>
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
@@ -24,7 +24,7 @@
         <!-- HEADER SECTION -->
         <header class="header">
             <a href="#" class="logo">
-                <img src="assets/images/logo.png" class="img-logo" alt="KapeTann Logo">
+                <img src="assets/images/logo.png" class="img-logo" alt="Coffee Shop Logo">
             </a>
 
             <!-- MAIN MENU FOR SMALLER DEVICES -->
@@ -84,7 +84,7 @@
         <!-- HERO SECTION -->
         <section class="home" id="home">
             <div class="content">
-                <h3>Welcome to KapeTann Coffee Shop, mga kap!</h3>
+                <h3>Welcome to Coffee Shop, mga kap!</h3>
                 <p>
                     <strong>We are open 4:00 PM to 9:00 PM.</strong>
                 </p>
@@ -100,9 +100,9 @@
                     <img src="assets/images/about-img.png" alt="" class="img-fluid">
                 </div>
                 <div class="content">
-                    <h3>Welcome to KapeTann!</h3>
+                    <h3>Welcome to CoffeeShop!</h3>
                     <p>
-                        At KapeTann Coffee Shop, we are passionate about coffee and believe
+                        At Coffee Shop, we are passionate about coffee and believe
                         that every cup tells a story. We are a cozy coffee shop located
                         in the heart of the city, dedicated to providing an exceptional
                         coffee experience to our customers. Our love for coffee has led
@@ -112,7 +112,7 @@
                     </p>
                     <p>
                         But coffee is not just a drink, it's an experience. Our warm and
-                        inviting atmosphere at KapeTann is designed to be a haven
+                        inviting atmosphere at Coffee Shop is designed to be a haven
                         for coffee lovers, where they can relax, connect, and embark
                         on their own coffee voyages.
                     </p>
@@ -505,7 +505,7 @@
                     <i class="fas fa-phone"></i>
                     <p>+63 917-134-1422</p><br />
                     <i class="fab fa-facebook-messenger"></i>
-                    <p>@kapetanncoffee</p><br />
+                    <p>@Coffee Shopcoffee</p><br />
                 </div>
                 <div class="support">
                     <h2>Support</h2>
@@ -535,7 +535,7 @@
                 </div>
                 <div class="credit">
                     <hr /><br/>
-                    <h2>KapeTann Brewed Coffee © 2025 | All Rights Reserved.</h2>
+                    <h2>Coffee Shop Brewed Coffee © 2025 | All Rights Reserved.</h2>
                     <h2>Designed by <span>group 4</span> | Teravision</h2>
                 </div>
             </div>
