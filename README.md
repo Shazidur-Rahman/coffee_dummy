@@ -9,4 +9,3 @@
 > From our proprietary signature drink to unique concoctions like Lavender Lattes and Maple Bacon Cold Brews, our menu is a treasure trove of specialty beverages that will delight your taste buds.
 >
 > Join us at Coffee Shop, where every cup tells a story, and experience the joy of exceptional coffee.
-nnn
