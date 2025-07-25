@@ -69,7 +69,7 @@
 
             <!-- CART SECTION -->
             <div class="cart">
-                <h2 class="cart-title">Your Cart:</h2>
+                <h2 class="cart-title">Your's Cart:</h2>
                 <div class="cart-content">
                     
                 </div>
