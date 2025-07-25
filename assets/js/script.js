@@ -33,7 +33,7 @@ window.onscroll = () => {
 }
 
 // Script for making icon as button
-document.getElementById('paper-plane-icon').addEventListener('click', function() {
+document.getElementById('paper-plane-icon').addEventListener('click', function () {
     // Add your desired action here, e.g. submit form, trigger AJAX request, etc.
     alert('Paper airplane clicked!');
 });
@@ -51,21 +51,21 @@ function ready() {
     //Remove Items from Cart
     var removeCartButtons = document.getElementsByClassName('cart-remove');
     console.log(removeCartButtons);
-    for (var i = 0; i < removeCartButtons.length; i++){
+    for (var i = 0; i < removeCartButtons.length; i++) {
         var button = removeCartButtons[i];
         button.addEventListener('click', removeCartItem);
     }
 
     // When quantity changes
     var quantityInputs = document.getElementsByClassName("cart-quantity");
-    for (var i = 0; i < quantityInputs.length; i++){
+    for (var i = 0; i < quantityInputs.length; i++) {
         var input = quantityInputs[i];
         input.addEventListener("change", quantityChanged);
     }
 
     // Add to Cart
     var addCart = document.getElementsByClassName('add-cart');
-    for (var i = 0; i < addCart.length; i++){
+    for (var i = 0; i < addCart.length; i++) {
         var button = addCart[i];
         button.addEventListener("click", addCartClicked);
     }
@@ -90,16 +90,16 @@ function buyButtonClicked() {
         var title = cartBox.getElementsByClassName("cart-product-title")[0].innerText;
         var price = cartBox.getElementsByClassName("cart-price")[0].innerText;
         var quantity = cartBox.getElementsByClassName("cart-quantity")[0].value;
-        var priceValue = parseFloat(price.replace('₱', '').replace(',', ''));
+        var priceValue = parseFloat(price.replace('$', '').replace(',', ''));
         var subtotalAmount = priceValue * quantity;
-        orderDetails.push({ title: title, price: priceValue, quantity: quantity, subtotal_amount: subtotalAmount, invoice_number: invoiceNumber });    
+        orderDetails.push({ title: title, price: priceValue, quantity: quantity, subtotal_amount: subtotalAmount, invoice_number: invoiceNumber });
     }
 
     //Send data to server using AJAX
     var xhr = new XMLHttpRequest();
     xhr.open("POST", "add_to_database.php", true);
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.onreadystatechange = function() {
+    xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {
             console.log(xhr.responseText);
         }
@@ -187,11 +187,11 @@ function updateTotal() {
         var cartBox = cartBoxes[i];
         var priceElement = cartBox.getElementsByClassName("cart-price")[0];
         var quantityElement = cartBox.getElementsByClassName("cart-quantity")[0];
-        var price = parseFloat(priceElement.innerText.replace("₱", ""));
+        var price = parseFloat(priceElement.innerText.replace("$", ""));
         var quantity = quantityElement.value;
         total = total + (price * quantity);
     }
-        total = Math.round(total * 100) / 100;
-        
-        document.getElementsByClassName("total-price")[0].innerText = "₱" + total;
+    total = Math.round(total * 100) / 100;
+
+    document.getElementsByClassName("total-price")[0].innerText = "$" + total;
 }

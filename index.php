@@ -7,6 +7,7 @@
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
         <title>Coffee Shop Brewed Coffee</title>
 
+        <!-- bootstrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js" integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE" crossorigin="anonymous"></script>
@@ -24,7 +25,7 @@
         <!-- HEADER SECTION -->
         <header class="header">
             <a href="#" class="logo">
-                <img src="assets/images/logo.png" class="img-logo" alt="Coffee Shop Logo">
+                <img src="assets/images/logomain.png" class="img-logo" alt="Coffee Shop Logo">
             </a>
 
             <!-- MAIN MENU FOR SMALLER DEVICES -->
@@ -84,9 +85,9 @@
         <!-- HERO SECTION -->
         <section class="home" id="home">
             <div class="content">
-                <h3>Welcome to Coffee Shop, mga kap!</h3>
+                <h3>Welcome to Coffee Shop, group 4</h3>
                 <p>
-                    <strong>We are open 4:00 PM to 9:00 PM.</strong>
+                    <strong>We are open 4:00 AM to 5:00 PM.</strong>
                 </p>
                 <a href="#menu" class="btn btn-dark text-decoration-none">Order Now!</a>
             </div>
@@ -246,7 +247,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery1.jp" alt="">
+                                    <img src="assets/images/gallery1.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -263,7 +264,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery2.jp" alt="">
+                                    <img src="assets/images/gallery2.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -280,7 +281,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery3.jp" alt="">
+                                    <img src="assets/images/gallery3.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -299,7 +300,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jp" alt="">
+                                    <img src="assets/images/gallery4.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -316,7 +317,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jp" alt="">
+                                    <img src="assets/images/gallery4.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -333,7 +334,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery5.jp" alt="">
+                                    <img src="assets/images/gallery5.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">

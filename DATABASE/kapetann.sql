@@ -1,31 +1,9 @@
--- phpMyAdmin SQL Dump
--- version 5.2.0
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Apr 21, 2023 at 08:02 AM
--- Server version: 10.4.25-MariaDB
--- PHP Version: 8.1.10
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
 
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
---
--- Database: `kapetann`
---
-
--- --------------------------------------------------------
-
---
--- Table structure for table `orders`
---
 
 CREATE TABLE `orders` (
   `id` int(11) NOT NULL,
@@ -70,10 +48,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `password`, `create_datetime`) VALUES
-(1, 'John Rovie', 'RovicBalingbing', 'balingbing.johnrovie20@gmail.com', '850f5f5611e06993cc07363c98c560d0', '2023-04-18 08:59:41'),
-(2, 'admin', 'admin', 'admin@gmail.com', '21232f297a57a5a743894a0e4a801fc3', '2023-04-18 11:00:40'),
-(3, 'sample', 'sample', 'sample', '5e8ff9bf55ba3508199d22e984129be6', '2023-04-18 11:03:23'),
-(4, 'Rovic', 'Rovic', 'Rovic@gmail.com', '6bafff124175b93f6358d465c5a654d9', '2023-04-19 12:14:34');
+(1, 'John Rovie', 'RovicBalingbing', 'balingbing.johnrovie20@gmail.com', '850f5f5611e06993cc07363c98c560d0', '2025-04-18 08:59:41'),
+(2, 'admin', 'admin', 'admin@gmail.com', '21232f297a57a5a743894a0e4a801fc3', '2025-04-18 11:00:40'),
+(3, 'sample', 'sample', 'sample', '5e8ff9bf55ba3508199d22e984129be6', '2025-04-18 11:03:23'),
+(4, 'Rovic', 'Rovic', 'Rovic@gmail.com', '6bafff124175b93f6358d465c5a654d9', '2025-04-19 12:14:34');
 
 --
 -- Indexes for dumped tables
