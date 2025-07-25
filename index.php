@@ -247,7 +247,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery1.jpg" alt="">
+                                    <img src="assets/images/gallery1.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -264,7 +264,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery2.jpg" alt="">
+                                    <img src="assets/images/gallery2.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -281,7 +281,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery3.jpg" alt="">
+                                    <img src="assets/images/gallery3.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -300,7 +300,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jpg" alt="">
+                                    <img src="assets/images/gallery4.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -317,7 +317,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jpg" alt="">
+                                    <img src="assets/images/gallery4.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -334,7 +334,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery5.jpg" alt="">
+                                    <img src="assets/images/gallery5.jp" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
