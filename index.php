@@ -132,7 +132,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-1.png" alt="" class="product-img">
                                 <h3 class="product-title">Americano - Hot Espresso (12 OZ)</h3>
-                                <div class="price">$45.00</div>
+                                <div class="price">$4.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -140,7 +140,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-2.png" alt="" class="product-img">
                                 <h3 class="product-title">Colombian Supremo Cup (12 OZ)</h3>
-                                <div class="price">$40.00</div>
+                                <div class="price">$4.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -148,7 +148,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-3.png" alt="" class="product-img">
                                 <h3 class="product-title">Nitro Cold Brew w/ Straw (12 OZ)</h3>
-                                <div class="price">$50.00</div>
+                                <div class="price">$5.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-4.png" alt="" class="product-img">
                                 <h3 class="product-title">Seasonal Single-Origin (12 OZ)</h3>
-                                <div class="price">$30.00</div>
+                                <div class="price">$3.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -166,7 +166,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-5.png" alt="" class="product-img">
                                 <h3 class="product-title">Indonesian Sumatra Mandheling (12 OZ)</h3>
-                                <div class="price">$40.00</div>
+                                <div class="price">$4.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -174,7 +174,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-6.png" alt="" class="product-img">
                                 <h3 class="product-title">Mint Mojito Iced Coffee (12 OZ)</h3>
-                                <div class="price">$55.00</div>
+                                <div class="price">$5.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-7.png" alt="" class="product-img">
                                 <h3 class="product-title">Iced Americano (12 OZ)</h3>
-                                <div class="price">$35.00</div>
+                                <div class="price">$3.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -192,7 +192,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-8.png" alt="" class="product-img">
                                 <h3 class="product-title">Specialty Brews (12 OZ)</h3>
-                                <div class="price">$85.00</div>
+                                <div class="price">$8.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -200,7 +200,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-9.png" alt="" class="product-img">
                                 <h3 class="product-title">Seasonal Origin (12 OZ)</h3>
-                                <div class="price">$80.00</div>
+                                <div class="price">$8.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-10.png" alt="" class="product-img">
                                 <h3 class="product-title">Ethiopian Yirgacheffe Cup (12 OZ)</h3>
-                                <div class="price">$55.00</div>
+                                <div class="price">$5.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -218,7 +218,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-11.png" alt="" class="product-img">
                                 <h3 class="product-title">Cold Brew Tonic In a Cup (12 OZ)</h3>
-                                <div class="price">$35.00</div>
+                                <div class="price">$3.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div><br />
@@ -226,7 +226,7 @@
                             <div class="box">
                                 <img src="assets/images/cart-item-12.png" alt="" class="product-img">
                                 <h3 class="product-title">Caramel Cold Foam Cold Brew (12 OZ)</h3>
-                                <div class="price">$55.00</div>
+                                <div class="price">$5.00</div>
                                 <a class="btn add-cart" onclick="redirectCart()">Add to Cart</a>
                             </div>
                         </div>
@@ -247,7 +247,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery1.jp" alt="">
+                                    <img src="assets/images/gallery1.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -264,7 +264,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery2.jp" alt="">
+                                    <img src="assets/images/gallery2.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -281,7 +281,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery3.jp" alt="">
+                                    <img src="assets/images/gallery3.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -300,7 +300,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jp" alt="">
+                                    <img src="assets/images/gallery4.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -317,7 +317,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery4.jp" alt="">
+                                    <img src="assets/images/gallery4.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">
@@ -334,7 +334,7 @@
                         <div class="col-md-4">
                             <div class="box">
                                 <div class="image">
-                                    <img src="assets/images/gallery5.jp" alt="">
+                                    <img src="assets/images/gallery5.jpg" alt="">
                                 </div>
                                 <div class="content">
                                     <div class="stars">

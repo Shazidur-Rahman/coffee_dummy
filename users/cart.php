@@ -13,7 +13,7 @@ foreach ($data as $item) {
     $price = $item["price"];
     $quantity = $item["quantity"];
     $total = $item["total"];
-    $sql = "INSERT INTO cart (title, price, quantity, total, date_created) VALUES ('$title', '$price', '$quantity', '$total', '$currentDate')";
+    $sql = "INSERT INTO cart (title, price, quantity, total, date_created) VALUES ('$title', '$price', '$quantity', '$total', '$currentDate');
     $conn->query($sql);
 }
 
